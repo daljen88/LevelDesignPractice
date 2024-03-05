@@ -18,7 +18,7 @@ MonoBehaviour:
   GroundLayer:
     serializedVersion: 2
     m_Bits: 641
-  MaxSpeed: 8
+  MaxSpeed: 15
   Acceleration: 90
   GroundingForce: -5.67
   RotationSmoothTime: 0.15
